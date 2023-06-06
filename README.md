@@ -15,11 +15,6 @@ This is a fully functional eCommerce website with a beautiful user interface and
 4. JavaScript (Client-Side)
 5. Paypal Integration (Payment Method)
 
-## Demonstration
-<p align="left">
-  <img width="780" src="preview/demonstration.gif">
-</p>
-
 ## Preview
 #### Store
 <p align="left">
@@ -58,8 +53,5 @@ pip install -r requirements.txt
 python manage.py runserver
 ```
 
-## Deployed
-👉 Live Demo: [e-Commerce](https://ruhulaminparvez.pythonanywhere.com/)
 
-## Bugs
-> *If there any known bugs found or run into any issues please let me know. Please enjoy and feel free to share your opinion, constructive criticism, or comments about my work. Email: 👉 ruhulaminparvez007@gmail.com 😊 Thank you!*
+
